@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e28bbd67-7f5b-4218-8418-6b6eadffe957" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../day-18-5-end/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-5-end/.idea/day-18-5-end.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-5-end/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-5-end/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-5-end/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-18-5-end/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hirstpainting-final/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hirstpainting-final/.idea/hirstpainting-final.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hirstpainting-final/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hirstpainting-final/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hirstpainting-final/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hirstpainting-final/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hirstpainting-final/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hirstpainting-final/nohup.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/.idea/mail-automation-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/Input/Letters/starting_letter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/Input/Names/invited_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/Output/ReadyToSend/letter_for_Belinda.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/Output/ReadyToSend/letter_for_Devan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/Output/ReadyToSend/letter_for_Devyn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/Output/ReadyToSend/letter_for_Gael.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/Output/ReadyToSend/letter_for_Gretchen.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/Output/ReadyToSend/letter_for_Kaia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/Output/ReadyToSend/letter_for_Kelsie.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/Output/ReadyToSend/letter_for_Layton.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/Output/ReadyToSend/letter_for_Margaret.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/Output/ReadyToSend/letter_for_Melody.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/Output/ReadyToSend/letter_for_Noe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/Output/ReadyToSend/letter_for_Romeo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/Output/ReadyToSend/letter_for_Walter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mail-automation-project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop-coffee-machine-start/.idea/oop-coffee-machine-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/pythonProject/cofee-maker/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz-game-final/.idea/quiz-game-final.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2He0Ehmd1wB6HrFIB8UJAJmj5TX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NATO-alphabet-end" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e28bbd67-7f5b-4218-8418-6b6eadffe957" name="Changes" comment="" />
+      <created>1668630132203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668630132203</updated>
+    </task>
+    <servers />
+  </component>
+</project>
